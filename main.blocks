@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="v_s9,]E1?1cS^^0xmBEU" x="60" y="0"/><block type="device_forever" id="69i?F;5z$vvC`;#no=LU" x="265" y="0"/><block type="device_gesture_event" id=",_9}3#e(|HEo47gWmHCx" x="0" y="231"><field name="NAME">Gesture.LogoUp</field></block></xml>
